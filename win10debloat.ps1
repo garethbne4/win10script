@@ -125,7 +125,7 @@ $tweaks = @(
 	# "SetVisualFXPerformance",     # "SetVisualFXAppearance",
 	# "AddENKeyboard",              # "RemoveENKeyboard",
 	"EnableNumlock",             	# "DisableNumlock",
-	"EnableDarkMode",				# "DisableDarkMode",
+	"DisableDarkMode",		# "EnableDarkMode",
 	"Stop-EdgePDF",
 
 	### Explorer UI Tweaks ###
